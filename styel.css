@@ -1,0 +1,284 @@
+*{
+    margin: 0px;
+}
+
+.header{
+    background-image: url(photo/bg-hero-desktop.svg) ;
+    background-color: rgb(96, 206, 206);
+    width: 100pv;
+    height: 550px;
+    margin: 0px;
+    padding: 15px;
+ 
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+
+}
+
+#buttonlogo{
+    width: 200px;
+    background-color :rgb(209 138 138 / 13%);
+   padding: 15px;
+   border-radius:50px;
+   cursor:pointer;
+   color: rgb(2, 2, 2);
+   border: 1px solid transparent;
+
+}
+#buttonlogo:hover{
+    color: #ffffff;
+    background-color: deeppink;
+}
+
+#button{
+    width: 200px;
+    background-color :rgba(124, 76, 76, 0.342);
+   padding: 15px;
+   border-radius:50px;
+   cursor:pointer;
+   color: rgb(2, 2, 2);
+   border: 1px solid transparent;
+
+}
+
+#button:hover{
+    color: #ffffff;
+    background-color: deeppink;
+}
+
+#frist{
+    color: rgba(29, 24, 24, 0.89);
+}
+
+    p{
+        color: #c2b3b3e5;
+    }
+
+
+.qq{
+    margin: 15px;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+
+
+
+.imghaed img{
+    width: 500px;
+    height: 400px;
+    float: right;
+    margin-right: 100px;
+}
+
+/* 00000 */
+
+.grow{
+    width: 100vp;
+    height: 500px;
+    margin: 60px;
+    margin-top: 120px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+.gg{
+    padding-top:35px;
+    margin-top: 150px;
+}
+
+.imggrow img{
+    padding-top:35px;
+    width: 450px;
+    margin-top: 20px;
+    height: 400px;
+    float: right;
+}
+
+/* 111 */
+
+.flowing{
+    width: 100vp;
+    height: 500px;
+    margin: 60px;
+    margin-top: 70px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+.ff{
+    padding-top:35px;
+    margin-top: 150px;
+    
+}
+
+.flow img{
+    padding-top:35px;
+    width: 450px;
+    margin-top: 20px;
+    height: 400px;
+    float: left;
+}
+
+/* 222 */
+
+.illustration{
+    width: 100vp;
+    height: 500px;
+    margin: 60px;
+    margin-top: 70px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+/* 333 */
+
+.Ready{
+    width: 650px;
+    height: 150px;
+    border-radius: 10px;
+    padding: 60px;
+    position:relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: #ffffff;
+    display: flex;
+   justify-content: center;
+    box-shadow: 5px 5px 10px gray;
+    position: relative;
+    top: 250px;
+}
+
+#bbb{
+    width: 400px;
+    background-color :rgba(124, 76, 76, 0.342);
+   padding: 15px;
+   border-radius:50px;
+   cursor:pointer;
+   color: rgb(2, 2, 2);
+   border: 1px solid transparent;
+}
+
+#bbb:hover{
+    background-color: deeppink;
+    color: #ffffff;
+}
+
+/* start footer */
+
+footer{
+    width: 100pv;
+    height: 250px;
+    background-color:rgba(5, 8, 33, 0.822);
+    display: flex;
+    justify-content: space-around;
+   padding-top: 250px;
+  
+}
+#lolo {
+    width: 150px;
+    height: 40px;
+    margin: 0px;
+
+}
+
+.dr{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 450px;
+    height: 100px;
+    align-items:start;
+    
+}
+.dr img{
+    width: 20px;
+    height: 15px;
+    
+}
+ 
+.ll{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+ 
+.mm{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    
+
+}
+ 
+.pp{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+
+}
+#bb{
+    margin-right: 15px;
+ }
+
+ ul li{
+    list-style: none;
+
+ }
+ ul li a{
+        text-decoration: none;
+        color: #c2b3b3e5;
+ }
+
+ ul li a:hover{
+    text-decoration:underline;
+    color: rgb(255, 0, 191);
+ }
+
+ .ayco img{ 
+    border:1px solid transparent;
+    border-radius:30% ;
+    width: 20px;
+    height: 25px;
+    margin: 3px;
+ }
+
+ .ayco img:hover{
+background-color: deeppink;
+    color: deeppink;
+ }
+
+
+.end p{
+    float: right;
+    position: relative;
+    bottom: 50px;
+    margin-right: 45px ;
+}
+
+
+/* end */
+
+
+
+
+
